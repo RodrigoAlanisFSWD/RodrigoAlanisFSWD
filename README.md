@@ -1,27 +1,27 @@
-# Hi! I Am Rodrigo A Web Developer  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h3 align="center">A Web Developer In Process Of Learning</h3>
 
-## 👉🏻 Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoalanisfswd&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoalanisfswd" /> </p>
 
-* FullStack Web Dev
-* Web Desing
-* Mobile Dev
+- 🌱 I’m currently learning **Flutter**
 
-## 👉🏻 Languajes
+- 💬 Ask me about **javascript, golang and dart**
 
-<div style="display: flex; align-items: center; justify-content: space-evenly">
-<img src="./javascript.svg" width="200">
-<img src="./go.svg" width="200">
-<img src="./py.svg" width="200">  
-<img src="./dart.svg" width="200">  
-<img src="./java.png" width="200">  
-</div>
+- 📫 How to reach me **rodrigoalanisfswd@gmail.com**
 
-## 👉🏻 Some Frameworks
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div style="display: flex; align-items: center; justify-content: space-evenly">
-<img src="./ng.svg" width="200">
-<img src="./tailwind.svg" width="200">
-<img src="./react.svg" width="200">
-<img src="./flutter.svg" width="200">
-<img src="./express.svg" width="200">
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rodrigoalwb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rodrigoalwb" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoalanisfswd&show_icons=true&locale=en&layout=compact" alt="rodrigoalanisfswd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoalanisfswd&show_icons=true&locale=en" alt="rodrigoalanisfswd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoalanisfswd&" alt="rodrigoalanisfswd" /></p>
+
