@@ -6,7 +6,8 @@ Fullstack Web Developer
 
 I've been learning web development for 4 years, I love backend development and devops tools like docker
 
-* 🌍  I'm based in Mexico * 🖥️  See my portfolio at [RodrigoAlanisFSWD](http://rodrigoalanisfswd.com) 
+* 🌍  I'm based in Mexico 
+* 🖥️  See my portfolio at [RodrigoAlanisFSWD](http://rodrigoalanisfswd.com) 
 * ✉️  You can contact me at [rodrigoalanisfswd@gmail.com](mailto:rodrigoalanisfswd@gmail.com) 
 * 🚀  I'm currently working on [Roal Cases](http://roalcases.shop) 
 * ⚡  I'm also a musician and a blues enjoyer
